@@ -1,5 +1,7 @@
 # Kali Launcher
 
+[![CI](https://github.com/Jibbithy/kali-launcher/actions/workflows/ci.yml/badge.svg)](https://github.com/Jibbithy/kali-launcher/actions/workflows/ci.yml)
+
 A Linux desktop app for browsing and running Kali Linux tools. It finds the tools installed on your machine or inside Kali Docker containers, then opens each one in its own terminal tab.
 
 **Only test systems you own or have written permission to test.**
